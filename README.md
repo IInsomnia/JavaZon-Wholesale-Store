@@ -3,14 +3,23 @@
 A Java program that accepts input from the user and validates each input, perform some calculations, and then generates output. The program simulates placing an order at a store and prints out a receipt.
 
 1. Prompt for customer information
-	a. Customer First Name
-	b. Customer Last Name
-	c. Customer Address
-	d. Customer City
-	e. Customer State
-	f. Customer Zip
-	g. Customer Phone Number
-	h. Customer MemberShip Number
+
+-	a. Customer First Name
+	
+-	b. Customer Last Name
+	
+-	c. Customer Address
+	
+-	d. Customer City
+	
+-	e. Customer State
+	
+-	f. Customer Zip
+	
+-	g. Customer Phone Number
+	
+-	h. Customer MemberShip Number
+
 
 2. Prompt for a product
 3. Prompt for a product quantity
